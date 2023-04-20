@@ -9,7 +9,7 @@
     <br />
   </samp>
 
-| ![WeiLin-Liao GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true) | ![WeiLin-Liao GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiLin-Liao&layout=compact&theme=blue-green&hide_border=true) | 
+| ![WeiLin-Liao GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiLin-Liao&theme=radical&show_icons=true) | ![WeiLin-Liao GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiLin-Liao&layout=compact&theme=blue-green&hide_border=true) | 
 | ------------- | ------------- |
 
 </p>
